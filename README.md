@@ -1,4 +1,4 @@
-# About the Project: Exploratory Data Analysis of Renewable Power Plants in the UK
+# Exploratory Data Analysis of Renewable Power Plants in the UK
 
 Welcome to the exploratory data analysis (EDA) project focusing on renewable power plants in the United Kingdom. This project looks for the landscape of renewable energy sources, their distribution, capacity trends, and various other insights derived from extensive data analysis.
 
