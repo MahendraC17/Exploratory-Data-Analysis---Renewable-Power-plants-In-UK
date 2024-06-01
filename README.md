@@ -29,3 +29,5 @@ The heart of this project lies in the graphical representation of data, facilita
 - Average capacity of all energy sources in the dataset.
 - Trend analysis of the capacity of individual turbines over the years and its contribution to overall energy capacity.
 - Most commonly used renewable energy sources in the UK.
+
+Original dataset can be found on Kaggle at - https://www.kaggle.com/datasets/24842a1a4c389a65d99683099aa3dc9d9f8f2f0e55878a0c85aa775acc9c135c
