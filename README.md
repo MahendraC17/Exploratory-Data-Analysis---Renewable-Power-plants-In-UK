@@ -1,10 +1,8 @@
 # Exploratory Data Analysis of Renewable Power Plants in the UK
 
-Welcome to the exploratory data analysis (EDA) project focusing on renewable power plants in the United Kingdom. This project looks for the landscape of renewable energy sources, their distribution, capacity trends, and various other insights derived from extensive data analysis.
-
 ## 1. Feature Construction and Transformation:
 
-The project begins with meticulous feature construction and transformation to ensure comprehensive analysis. The dataset comprises several essential columns including:
+The project consists of meticulous feature construction and transformation to ensure comprehensive analysis. The dataset comprises several essential columns including:
 
 - `electrical_capacity`: The electrical capacity of the power plants.
 - `energy_source_level_1`, `energy_source_level_2`, `energy_source_level_3`: Hierarchical classification of energy sources.
