@@ -30,4 +30,12 @@ The heart of this project lies in the graphical representation of data, facilita
 - Trend analysis of the capacity of individual turbines over the years and its contribution to overall energy capacity.
 - Most commonly used renewable energy sources in the UK.
 
+## 3. Summary Report:
+
+- Significant growth in the number of power plants and their electrical capacity from 1992 to 2020.
+- Clear trends indicating newer turbines have higher electrical capacity compared to older ones.
+- Renewable energy sources, particularly solar and wind, dominate the energy generation landscape in the UK.
+- Positive correlation between the number of power plants and overall electrical capacity, indicating a steady increase in renewable    energy capacity over time.
+- Country with more land area and territorial sea has more numbers of power plants.
+
 Original dataset can be found on Kaggle at - https://www.kaggle.com/datasets/24842a1a4c389a65d99683099aa3dc9d9f8f2f0e55878a0c85aa775acc9c135c
